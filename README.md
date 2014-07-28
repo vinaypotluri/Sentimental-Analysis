@@ -1,4 +1,4 @@
-Sentiment Analysis using for Stock Market Prediction
+Sentiment Analysis Stock Market Prediction using Twitter
 ====================
 
 **Language: R                                                                         
